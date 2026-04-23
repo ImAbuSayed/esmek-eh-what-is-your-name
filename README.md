@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق ناديني في سكون
+> في عيونك أرى أسرار الجنون
+> نار الحب في قلبي لا تهون
+> هل تسمعين النداء أم يخون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
