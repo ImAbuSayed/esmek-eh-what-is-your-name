@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esmek Eh – What is Your Name
+
+This log tracks the cryptographic history and versioning for the song **Esmek Eh – What is Your Name** (esmek-eh-what-is-your-name).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:46:16.272282 | `v1` | `4d92984649efd4ac96c69b1a0526940cf2f58cf614bfbe6ed7e1a9686753464b` | `b27e040336a2195bb63c70a27f9c9ab0c3614c60a0fa717a1ebc8e2292e15d91` | `2026-05-09_esmek-eh-what-is-your-name-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
